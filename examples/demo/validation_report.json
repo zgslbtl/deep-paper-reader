@@ -1,0 +1,5 @@
+{
+  "status": "PASS",
+  "issues": [],
+  "scope": "Schema, source anchoring and reference integrity only. Codex must review semantic entailment, omissions, and synthesis."
+}

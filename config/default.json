@@ -1,0 +1,13 @@
+{
+  "language": "bilingual",
+  "analysis_depth": "deep",
+  "paper_only_first": true,
+  "external_context": false,
+  "figure_analysis": true,
+  "table_analysis": true,
+  "research_logic": true,
+  "reproducibility_check": true,
+  "knowledge_card_depth": "deep",
+  "unknown_policy": "report_not_reported",
+  "render_dpi": 120
+}

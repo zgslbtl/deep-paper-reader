@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deep Paper Reader"
+  short_description: "Trace one paper from study design to evidence and contributions."
+  default_prompt: "Use $deep-paper-reader to read this PDF paper-only, validate its evidence, and build a bilingual local reader."
