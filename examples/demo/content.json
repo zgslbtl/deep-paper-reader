@@ -1,0 +1,32 @@
+{
+  "paper": {
+    "title": "Synthetic fixture · Reader smoke demo",
+    "meta": "合成材料，仅演示本地 Reader，不是研究结论"
+  },
+  "sections": [
+    {
+      "title": "One-minute Overview",
+      "blocks": [
+        {
+          "zh": "这是用于检验本地构建的合成 PDF。真实论文需要由 Codex 阅读全文、写作十二节讲解并单独查证知识卡片。",
+          "en": "A synthetic fixture for testing the Reader, not scientific evidence.",
+          "evidence": [
+            {
+              "page": 1,
+              "quote": "SYNTHETIC DEMO - invented study and numbers for software testing only."
+            }
+          ]
+        },
+        {
+          "title": "展开细节示例",
+          "details": [
+            {
+              "zh": "这里可以放置研究过程的详细说明。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "knowledge_cards": []
+}

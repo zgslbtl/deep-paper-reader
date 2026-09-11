@@ -1,0 +1,1 @@
+{"name":"deep-paper-reader-assets","private":true,"scripts":{"vendor":"node scripts/vendor_pdf.mjs"},"devDependencies":{"esbuild":"0.28.2","pdfjs-dist":"6.3.289","playwright":"1.63.0"}}
